@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap');
+
+@layer base{
+    .home_background{
+        background-color: rgb(35, 48, 0);
+    }
+    .nav_background{
+        background-color: rgb(36, 48, 3);
+    }
+    .lineheight{
+        line-height: 1.04;
+    }
+    .subsribe_background{
+        background-color: rgba(94, 102, 0, 1);
+    }
+    .whitegreen{
+      background-color: rgba(235, 240, 228, 1);
+    }
+    .black{
+        color: rgba(0, 0, 0, 1);
+    }
+    .avocadogreen{
+        background-color: rgba(94, 102, 0, 1);
+    }
+    .hover {
+        transform: scale(1.2);
+        z-index: 2;
+    }
+    .hover2 {
+        transform: scale(0.9);
+        z-index: 2;
+    }
+    .transition {
+        transition: 3s;
+    }
+    .menu_background{
+        background-image: url(../dist/images/Image\ \(8\).png);
+        background-size: cover;
+        height: 100vh;
+    }
+    .contact_background{
+        background-image: url(../dist/images/contact.png);
+        background-size: cover;
+        height: 100vh;
+    }
+    .text_color{
+        color: rgba(94, 102, 0, 1);
+    }
+    .about_background{
+        background-image: url(../dist/images/Image\ \(15\).png);
+        background-size: cover;
+        height: 100vh;
+    }
+    .delicious{
+        background-image: url(../dist/images/Image\ \(19\).png);
+        background-size: contain;
+        height: 535px;   
+    }
+}

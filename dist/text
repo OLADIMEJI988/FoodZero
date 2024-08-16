@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="output.css" />
+  </head>
+  <body class="antialiased">
+    <div class="home_background">
+      <header class="flex px-14">
+        <div class="flex mr-auto">
+          <img class="pt-5 h-16" src="../dist/images/Logo.png" alt="" />
+          <img
+            class="h-14 ml-4 pt-7"
+            src="../dist/images/NaviOpen.png"
+            alt=""
+          />
+        </div>
+        <div class="flex pt-5 font-Noto">
+          <h1 class="text-white mt-1.5">+234 8136170619</h1>
+          <div
+            class="flex ml-6 py-2 px-5 background mb-5 border text-white tracking-wide font-medium text-sm"
+          >
+            Reservations
+          </div>
+        </div>
+      </header>
+      <section class="mt-14 mx-64">
+        <div
+          class="text-[65px] lineheight text-white relative z-[2] font-Noto tracking-wide"
+        >
+          <h1>Healthy Eating</h1>
+          <h1>is important</h1>
+          <h1>part of lifestyle</h1>
+        </div>
+        <h1
+          class="text-white font-Noto mt-5 text-[11px] tracking-normal opacity-85"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing
+        </h1>
+        <h1 class="text-white font-Noto text-[11px] tracking-normal opacity-85">
+          elit. Neque congue arcu
+        </h1>
+        <div
+          class="text-white font-Noto rotate-90 top-96 relative z-[2] flex right-[370px]"
+        >
+          <h1 class="text-lg">Scroll</h1>
+          <h1 class="ml-2 opacity-75 mt-[1px] gap-1 font-extralight">
+            -------------------------
+          </h1>
+        </div>
+
+        <div>
+          <img
+            class="h-[380px] absolute ml-14 top-[188px] left-[548px]"
+            src="../dist/images/Image.png"
+            alt=""
+          />
+        </div>
+        <div class="flex relative z-[2] h-20 gap-4 left-56 top-20">
+          <img src="../dist/images/spices1.png" alt="" />
+          <img src="../dist/images/spices2.png" alt="" />
+          <img src="../dist/images/spices3.png" alt="" />
+        </div>
+      </section>
+      <!--  -->
+      <section class="mt-[170px] mx-[248px] font-Noto flex">
+        <div>
+          <img class="h-[228px]" src="../dist/images/Image (2).png" alt="" />
+          <h1 class="text-white text-3xl tracking-normal font-medium mt-5">
+            Start to plan
+          </h1>
+          <h1 class="text-white text-3xl tracking-normal leading-7 font-medium">
+            your diet today
+          </h1>
+          <p class="text-white text-[10px] tracking-wider mt-5 opacity-85">
+            Lorem ipsum dolor sit amet, consectetur adipiscing
+          </p>
+          <p class="text-white text-[10px] tracking-wider opacity-85">
+            elit. Neque congue arcu
+          </p>
+        </div>
+        <!--  -->
+        <div class="ml-32">
+          <p class="text-white text-[10px] tracking-wider opacity-85">
+            Lorem ipsum dolor sit amet, consectetur adipiscing
+          </p>
+          <p class="text-white text-[10px] tracking-wider opacity-85 mb-5">
+            elit. Neque congue arcu
+          </p>
+          <img class="h-72 mb-28" src="../dist/images/Image (3).png" alt="" />
+        </div>
+      </section>
+    </div>
+    <!-- MENU BEGINS -->
+    <section class="mx-[248px] font-Noto mb-12">
+      <div class="flex">
+        <div class="mr-40">
+          <p class="text-5xl mt-14 tracking-normal">Our Menu</p>
+          <p class="text-[10px] mt-2.5">
+            This is a section of your menu. Give your section
+          </p>
+          <p class="text-[10px]">a brief description</p>
+        </div>
+        <div>
+          <img class="h-[340px]" src="../dist/images/Image (1).png" alt="" />
+        </div>
+      </div>
+      <!--  -->
+      <div class="flex -mt-[140px]">
+        <div>
+          <p class="ml-[290px] tracking-normal font-semibold">$20</p>
+          <img class="w-[314px]" src="../dist/images/Line 1.png" alt="" />
+          <p class="text-3xl tracking-normal mt-2">Deep Sea Snow White</p>
+          <p class="text-3xl tracking-normal">Cod Fillet</p>
+          <p class="text-[10px] tracking-normal opacity-85 mt-2">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+        <!--  -->
+        <div class="ml-6">
+          <p class="ml-[290px] tracking-normal font-semibold">$22</p>
+          <img class="w-[314px]" src="../dist/images/Line 1.png" alt="" />
+          <p class="text-3xl tracking-normal mt-2">Steak With Rosemary</p>
+          <p class="text-3xl tracking-normal">Butter</p>
+          <p class="text-[10px] tracking-normal opacity-85 mt-2">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </div>
+
+      <div class="flex mt-10">
+        <div>
+          <p class="ml-[290px] tracking-normal font-semibold">$18</p>
+          <img class="w-[314px]" src="../dist/images/Line 1.png" alt="" />
+          <p class="text-3xl tracking-normal mt-2">Cucumber Salad</p>
+          <p class="text-[10px] tracking-normal opacity-85 mt-2">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+        <!--  -->
+        <div class="ml-6">
+          <p class="ml-[290px] tracking-normal font-semibold">$90</p>
+          <img class="w-[314px]" src="../dist/images/Line 1.png" alt="" />
+          <p class="text-3xl tracking-normal mt-2">Natural Wine Pairing</p>
+          <p class="text-[10px] tracking-normal opacity-85 mt-2">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- MENU SECTION ENDS ENDS -->
+
+    <!-- EXCELLENT COOK -->
+    <section class="whitegreen px-64 flex">
+      <!--  -->
+      <div>
+        <div class="">
+          <img
+            class="h-[184px] pt-14 absolute"
+            src="../dist/images/Leaf.png"
+            alt=""
+          />
+        </div>
+        <div>
+          <img
+            class="relative z-[2] h-[375px] left-[5px] top-[80px]"
+            src="../dist/images/Image (4).png"
+            alt=""
+          />
+        </div>
+      </div>
+      <!--  -->
+      <div>
+        <div>
+          <p class="text-9xl text-red-700">Excellent</p>
+        </div>
+      </div>
+
+    </section>
+  </body>
+</html>
+
+
+
+<p>©</p>
+position: sticky;
+top: 0;
+background: #233000ba;
+z-index: 4;
+
+
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
